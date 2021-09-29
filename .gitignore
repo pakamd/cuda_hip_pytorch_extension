@@ -1,0 +1,4 @@
+build/*
+torch_custom_operator/__pycache__/custom_operator.cpython-38.pyc
+*egg-info/*
+*.so
